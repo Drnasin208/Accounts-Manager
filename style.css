@@ -64,7 +64,7 @@ nav {
 }
 
 .login__btn {
-  border:#9be15d;
+  border:1px solid #898a88;
   background: #9be15d;
   border-radius: 20px;
   font-size: 1.5rem;
@@ -368,6 +368,10 @@ h2 {
   border: none;
   padding: 0.5rem 0.5rem;
   width: 8rem;
+    }
+    .login__btn{
+      font-size:18px;
+      border:1px solid gray;
     }
     .welcome{
       width:50%;
